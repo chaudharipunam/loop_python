@@ -1,0 +1,3 @@
+#  when we have do print nothing that time we use PASS........
+for x in [6,7,8]:
+    pass
